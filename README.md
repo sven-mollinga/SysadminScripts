@@ -1,8 +1,6 @@
 # SysadminScripts
-Useful for Linux environments
+Useful scripts for Linux environments
 
-SSL valid days
-
-Usage:
-
-sh check_ssl_expire.sh DOMAINNAME
+- Curator configurations for Elasticsearch environments
+- SSL validation Bash script
+- Upstart init template
